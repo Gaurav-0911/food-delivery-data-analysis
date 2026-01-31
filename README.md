@@ -25,4 +25,6 @@ The final merged dataset is the single source of truth for all analysis.
 
 ## Author
 Kumar Gaurav
-Email-kumartuntun123789@gmail.com
+
+## Email
+kumartuntun123789@gmail.com
